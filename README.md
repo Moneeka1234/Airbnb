@@ -3,21 +3,21 @@
 
 **☆ Technologies used :**
 
- HTML
+      HTML
 
- CSS
+      CSS
 
- JAVASCRIPT
+      JAVASCRIPT
 
- NODE.JS
+      NODE.JS
+ 
+      EXPRESS
 
- EXPRESS
+      EJS
 
- EJS
+      MVC FRAMEWORK
 
- MVC FRAMEWORK
-
- MONGODB
+      MONGODB
  
 
  
