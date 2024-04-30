@@ -1,7 +1,7 @@
 **This is Wanderlust..**
 
 
-** ☆ Technologies used :**
+**☆ Technologies used :**
 
  HTML
 
