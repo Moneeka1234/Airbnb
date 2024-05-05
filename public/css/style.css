@@ -3,6 +3,10 @@ body {
     display:flex;
     flex-direction: column;
     min-height:100vh;
+    font-optical-sizing: auto;
+    background-color: black !important;
+    color:white !important;
+    
 }
 .container {
     flex:1;
@@ -18,7 +22,7 @@ body {
     font-size: 2rem;
 }
 .nav-link {
-    color:#222222 !important;
+    color:black !important;
 }
 
 /* footer */
@@ -38,6 +42,9 @@ body {
 .f-info-socials i  {
     font-size:1.2rem;
     margin-right:1rem;
+}
+.f-info-socials i:hover  {
+    font-size: 2rem;
 }
 .f-info {
     text-align:center;
@@ -103,4 +110,9 @@ body {
 #map { 
     height:400px;
     width: 80vh;
+}
+
+.darkmode{
+    background-color: black !important;
+    color: white !important;
 }
